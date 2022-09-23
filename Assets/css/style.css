@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* Creates gray backround color of the main body of the page */
 body {
     background-color: #d9dcd6;
 }
 
+/* Replaced header class with header element and consolidated header/nav items to fewer lines of code */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* Changed div class "hero" to figure element reducing length on that line */
 figure {
     height: 800px;
     width: 100%;
@@ -59,6 +62,7 @@ figure {
     background-position: center;
 }
 
+/* Changed the div class "content" to main, and changed the rest of its contents from different div classes to article elements */
 main {
     width: 75%;
     display: inline-block;
@@ -74,6 +78,7 @@ article {
     color: #ffffff;
 }
 
+/* removed the "float-left" class and integrated it into article img instead, leaving "float right" to override for the opposite effect */
 article img {
     max-height: 200px;
     float: left;
@@ -90,6 +95,7 @@ article h2 {
     font-size: 36px;
 }
 
+/* adjusted div class "benefits" to an aside element, better representing the sidebar content */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -101,6 +107,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* converted the various classes inside the new aside element to section elements, and consolidated repeated properties */
 section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -117,6 +124,8 @@ section img {
     max-width: 150px;
 }
 
+/* the preview image included does not show this footer, but it was originally here when given the code, and we were simply asked to refactor it,
+   so I have left it in for that reason. Also changed div class "footer" to the footer element */
 footer {
     padding: 30px;
     clear: both;

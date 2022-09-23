@@ -12,7 +12,7 @@ No installation required, just follow the link to the webpage.
 
 For general webpage access, now with improved semantic html for better accessibility.
 
-![Webpage screenshot](https://github.com/BenjaminCottrell/Code-Refactor-Challenge/issues/1#issuecomment-1256802232)
+![Webpage screenshot](../assets/images/webpage-screenshot.jpg)
 
 ## Credits
 Credit to Ken Bellows for his excellent guide on semantic html. Article can be found here: https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i

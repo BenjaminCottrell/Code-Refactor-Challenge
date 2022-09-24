@@ -12,7 +12,7 @@ No installation required, just follow the link to the webpage.
 
 For general webpage access, now with improved semantic html for better accessibility.
 
-![Webpage screenshot](https://gyazo.com/482406c202475a3c39749f2fc54f010c)
+![Webpage screenshot](https://i.gyazo.com/cdb793acbe935b37f3f2d93fdab4f851.jpg)
 
 ## Credits
 Credit to Ken Bellows for his excellent guide on semantic html. Article can be found here: https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
